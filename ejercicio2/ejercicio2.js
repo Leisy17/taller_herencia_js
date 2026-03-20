@@ -29,7 +29,7 @@ console.log(pelicula1.estado()); // Retirada
 
 /* Escenario */
 
-// 1️⃣ Crear películas
+// Crear películas
 const peli1 = new Pelicula("Inception", "Ciencia ficción", 2010, 148);
 const peli2 = new Pelicula("Titanic", "Romance", 1997, 195);
 const peli3 = new Pelicula("Interstellar", "Ciencia ficción", 2014, 169);
